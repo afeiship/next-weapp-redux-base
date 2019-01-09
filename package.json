@@ -1,0 +1,19 @@
+{
+  "name": "next-weapp-redux-base",
+  "version": "1.0.0",
+  "description": "Redux reducers/actions/states based on nextjs.",
+  "main": "index.js",
+  "files": [
+    "lib/redux-actions.js",
+    "lib/redux-reducers.js",
+    "lib/redux-states.js"
+  ],
+  "repository": "git@github.com:afeiship/next-weapp-redux-base.git",
+  "author": "feizheng <1290657123@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next-js-core2": "github:afeiship/next-js-core2",
+    "next-weapp-storage": "github:afeiship/next-weapp-storage",
+    "next-weapp-store": "github:afeiship/next-weapp-store"
+  }
+}
